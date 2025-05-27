@@ -22,13 +22,13 @@ h1 {
 }
 
 #timer-display {
-  font-size: 4rem;
+  font-size: 6rem;
   font-weight: bold;
-  margin-bottom: 20px;
-  background-color: #1f1f1f;
+  margin-bottom: 40px;
+  background-color: #000000;
   padding: 20px 40px;
-  border-radius: 12px;
-  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  border-radius: 120px;
+  box-shadow: 10px 10px 200px rgba(255, 0, 0, 0.928);
 }
 
 #start-button {
@@ -36,7 +36,7 @@ h1 {
   color: #ffffff;
   border: none;
   padding: 12px 24px;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.3s ease;
